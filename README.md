@@ -15,5 +15,4 @@ Sistemas do Instituto Federal Sul Riograndense (IFSul), [Campus Santana do Livra
 
 <p align="center">
     <img src="mycurrentlocation.jpg" height="450">
-	Em breve
 </p>
